@@ -1,0 +1,29 @@
+/* button{
+    color: wheat;
+    border-radius: 50px;
+    background-color: blue;
+    border: none;
+    height: 40px;
+    justify-content: center;
+    float: left;
+
+} */
+
+.demo1{
+    color: red;
+    font-size: 30px;
+    /* border: blue solid 2px; */
+}
+.style{
+    text-align: center;
+    justify-content: center;
+    text-transform: capitalize;
+    font-size: 30px;
+    color: aqua;
+}
+.btn{
+    background-color: aqua;
+    font-size: 20px;
+    border: none;
+    border-radius: 20px;
+}
